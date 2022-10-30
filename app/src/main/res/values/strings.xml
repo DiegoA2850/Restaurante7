@@ -49,7 +49,7 @@
     </string-array>
 
     <string name="app_lista2">Spinner</string>
-    <string name="escoja_el_menu">Escoja el Menu</string>
+    <string name="escoja_el_menu">Seleccione el Menu</string>
     <string-array name="lista2">
         <item>Table one</item>
         <item>Table two </item>

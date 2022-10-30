@@ -49,6 +49,7 @@
     </string-array>
 
     <string name="app_lista2">Spinner</string>
+    <string name="escoja_el_menu">Menu Selections</string>
     <string-array name="lista2">
         <item>mesa uno</item>
         <item>mesa dos </item>
